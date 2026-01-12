@@ -1,4 +1,4 @@
 My first Git file
-Learning Git step by step
+Learning Git step by step (from conflict master)
 This line exists only in feature-notes branch
 This change is made for Pull Request practice
